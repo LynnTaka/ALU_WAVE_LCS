@@ -1,5 +1,5 @@
 /*
-Thhis ALU supports I- and R-Type Instructions
+This ALU supports I- and R-Type Instructions
 */
 
 module Alu_Control(
